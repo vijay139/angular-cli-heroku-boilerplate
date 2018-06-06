@@ -8,6 +8,5 @@ This README outlines how to quickly deploy your Angular CLI project to Heroku.
 
 ## Running
 ### Running in Heroku
-* `npm start`
-* Visit your app at [http://localhost:8080](http://localhost:8080)
-  * This should be similar to my [Heroku site](https://angular-cli-heroku-boilerplate.herokuapp.com/)
+
+Work in progress
